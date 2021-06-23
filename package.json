@@ -1,0 +1,19 @@
+{
+  "name": "@ncino/aws-cdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"YOU HAVE BEEN PWND\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikeje/number-generator.git"
+  },
+  "author": "DirtyData",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikeje/number-generator/issues"
+  },
+  "homepage": "https://github.com/pikeje/number-generator#readme",
+  "description": ""
+}
